@@ -1,0 +1,31 @@
+{
+    "name": "dccomics",
+    "displayName": "dccomics",
+    "description": "Dc Comic Based Theme by Kalanithi Sethuraman.",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/IAmNithi/vscode-dccomics.git"
+	},
+    "publisher": "Kalanithi",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+      "VSCode",
+      "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dccomics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dccomics-color-theme.json"
+            }
+        ]
+    }
+}
