@@ -1,4 +1,4 @@
-# Dc Comics for [Visual Studio Code](http://code.visualstudio.com)
+# Dc Comics theme for [Visual Studio Code](http://code.visualstudio.com)
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
