@@ -2,7 +2,7 @@
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.PNG)
 
 ## Installing
 
